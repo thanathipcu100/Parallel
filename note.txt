@@ -1,0 +1,4 @@
+npm i npm@4.0.0
+npm i inline-style-prefixer@4.0.0
+
+if found error delete package-lock.json
